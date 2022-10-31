@@ -1,6 +1,6 @@
 ---
 # Homepage
-type: landing
+type: widget_page
 
 headless: true
 ---

@@ -1,4 +1,4 @@
 ---
 title: Get Involved
-type: landing
+type: widget_page
 ---

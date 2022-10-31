@@ -1,4 +1,4 @@
 ---
 title: Who We Are
-type: landing
+type: widget_page
 ---
