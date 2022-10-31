@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day:
+  theme_day: forest
   theme_night: minimal
   font: native
   font_size: L
@@ -15,13 +15,14 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
+    site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo minimal theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'To know God and make Him known to the Japanese.'
+    twitter: 'ywamsendai'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-QBR8K83R99'
+    google_tag_manager: 'GTM-5PKMSRP'
     baidu_tongji: ''
   verification:
     google: ''
@@ -31,19 +32,19 @@ marketing:
 
 header:
   navbar:
-    enable: false
-    align: r
-    show_logo: false
-    show_language: false
+    enable: true
+    align: l
+    show_logo: true
+    show_language: true
     show_day_night: true
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} ywam&reg;sendai.jp. All rights reserved. Part of the YWAM Family of Ministries.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -51,8 +52,8 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: '2006-01-02'
+  time_format: '15:04'
 
 # Site features
 
@@ -67,7 +68,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/ywamsendai/ywamsendai-website'
     content_dir: content
     branch: main
   avatar:
@@ -86,14 +87,14 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: ''
+    provider: 'wowchemy'
     algolia:
       app_id: ''
       api_key: ''
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: 'google'
     api_key: ''
     zoom: 15
 
