@@ -1,5 +1,5 @@
 ---
 title: ワイワムとは
-type: landing
+type: widget_page
 
 ---
