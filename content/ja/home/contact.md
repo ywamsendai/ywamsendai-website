@@ -17,7 +17,7 @@ content:
       captcha: true
 
   # Contact details (edit or remove options as required)
-  email: info@ywamsendai.jp
+  email: info@ywamsendai.org
   coordinates:
     latitude: '38.2728'
     longitude: '140.761462'
