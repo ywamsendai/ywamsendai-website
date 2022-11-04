@@ -26,5 +26,5 @@ main:
     url: '/donate'
     weight: 60
   - name: For YWAMers
-    url: 'https://wiki.ywamsendai.jp'
+    url: 'https://wiki.ywamsendai.org'
     weight: 70

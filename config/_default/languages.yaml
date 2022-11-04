@@ -33,5 +33,5 @@ ja:
         url: '/donate'
         weight: 60
       - name: ワイワマーへ（英語）
-        url: 'https://wiki.ywamsendai.jp'
+        url: 'https://wiki.ywamsendai.org'
         weight: 70
