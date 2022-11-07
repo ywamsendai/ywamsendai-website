@@ -15,18 +15,21 @@ Each member of our team is supported financially to serve with us in Japan. That
 
 ## International
 
-You can make a transfer to us via your bank account (or a transfer service such as TransferWise for cheaper fees). Here are the details you will need:
+To save money on fees, we recommend using a money transfer service for sending money internationally, rather than directly via your bank. One service we recommend is [Wise](https://www.wise.com/). Here are details you may need:
 
-* Bank: Mizuho Bank Ltd.
-* Branch: Senju
-* Branch number: 527
-* Branch address: 2-58 Senju, Adachi-ku, Tokyo, 120-0034, JAPAN
-* SWIFT code: MHCBJPJT
-* Account number: 1992774
-* Account name: Sekaiseinensenkyoukai
+* SWIFT code: JPPSJPJJ
+* Branch name: JAPAN POST BANK, CO., LTD
+* Branch: OTEMACHI, 2-3-1
+* Branch code: IRS
+* Bank name: JAPAN POST BANK, CO., LTD
+* Bank Address: CHIYODA-KU
+* Country: JAPAN
+
+* Account number: 10140-65305041
+* Account name: SHUUKYOUHOUJIN SEKAISEINENSENKYOUKAI
 * Recipient's address: 2-15-3 Kanmaki-cho, Takatsuki-shi, Osaka-fu, 569-0003, JAPAN
 
-Please send us an email telling us you have sent your donation, including the amount and date of transfer, to admin@ywamsendai.jp
+Please send us an email telling us you have sent your donation, including the amount and date of transfer, to admin@ywamsendai.org
 
 ## Within Japan
 
