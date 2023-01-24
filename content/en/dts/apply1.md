@@ -4,21 +4,26 @@
 widget: blank
 
 # Activate this widget? true/false
-active: true
+active: false
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 45
 
-title: Come Join Our Japan-Focused DTS!
-subtitle: We are currently in the preparation phase of our first ever DTS here in Sendai!
+title: Coming soon to Sendai!
+# subtitle: How to Apply
 
 design:
-  columns: "1"
+  columns: "2"
 
   #spacing:
   #  padding: ["20px", "0", "20px", "0"]
 
 ---
+
+We are currently in the preparation phase of our first ever DTS here in Sendai!
+
+Please check back soon for more details, including how to apply!
+
