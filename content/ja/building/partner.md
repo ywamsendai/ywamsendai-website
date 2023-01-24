@@ -1,11 +1,11 @@
----
+﻿---
 widget: blank
 active: true
 headless: true
 weight: 40
 
-title: �p�[�g�i�[��W��
-subtitle: �����T������`���Ă����p�[�g�i�[���W���Ă��܂�
+title: パートナー募集中
+subtitle: 物件探しを手伝ってくれるパートナーを募集しています
 
 design:
   columns: "1"
@@ -15,8 +15,8 @@ design:
 
 ---
 
-���s���S���ւ̃A�N�Z�X���ǂ��A�L���~�n���m�ۂł���悤�F��A�M���Ă��܂��B�Z���I�ɂ͒��݂ł��\���܂��񂪁A�����I�ɂ͂�����Ƃ������������L���邱�ƂŁA��葽���̂��Ƃ������Ă���Ǝv���܂��B
+仙台市中心部へのアクセスが良く、広い敷地を確保できるよう祈り、信じています。短期的には賃貸でも構いませんが、長期的にはきちんとした物件を所有することで、より多くのことが見えてくると思います。
 
-���z����ւ̊�t�ɂ��Ă��F�肭�������B
+建築基金への寄付についてお祈りください。
 
-[��t����@��]({{< ref "/donate.md" >}})
+[寄付する　＞]({{< ref "/donate.md" >}})
