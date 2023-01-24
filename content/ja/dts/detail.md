@@ -1,24 +1,24 @@
----
+ï»¿---
 widget: featurette
 headless: true
 active: true
 weight: 42
 
-title: Ú×
-subtitle: ’m‚Á‚Ä‚¨‚«‚½‚¢‚±‚Æ
+title: è©³ç´°
+subtitle: çŸ¥ã£ã¦ãŠããŸã„ã“ã¨
 
 feature:
   - icon: scroll
     icon_pack: fas
-    name: \‚µ‚Ş
-    description: ‰•åƒtƒH[ƒ€‚ğ‹ß“úŒöŠJ—\’è
+    name: ç”³ã—è¾¼ã‚€
+    description: å¿œå‹Ÿãƒ•ã‚©ãƒ¼ãƒ ã‚’è¿‘æ—¥å…¬é–‹äºˆå®š
   - icon: calendar
     icon_pack: fas
-    name: “ú•t
-    description: 2023”N
+    name: æ—¥ä»˜
+    description: 2023å¹´
   - icon: yen-sign
     icon_pack: fas
-    name: Šw”ï
-    description: –¢’è‚Å‚·BÚ×‚Í‹ß“úŒöŠJ
+    name: å­¦è²»
+    description: æœªå®šã§ã™ã€‚è©³ç´°ã¯è¿‘æ—¥å…¬é–‹
 
 ---
