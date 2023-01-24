@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Youth With A Mission Sendai # Website name
-baseURL: 'https://www.ywamsendai.jp/' # Website URL
+baseURL: 'https://www.ywamsendai.org/' # Website URL
 
 ############################
 ## LANGUAGE

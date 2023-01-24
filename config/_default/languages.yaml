@@ -23,6 +23,9 @@ ja:
       - name: ワイワムとは
         url: '/who'
         weight: 30
+      - name: ベース
+        url: '/building'
+        weight: 35
       - name: ニュース
         url: 'https://www.medium.com/ywamsendai'
         weight: 40
