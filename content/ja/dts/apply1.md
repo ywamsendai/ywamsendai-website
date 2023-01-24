@@ -4,7 +4,7 @@
 widget: blank
 
 # Activate this widget? true/false
-active: true
+active: false
 
 # This file represents a page section.
 headless: true
@@ -12,13 +12,17 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: “ú–{‚É“Á‰»‚µ‚½DTS‚ÉQ‰Á‚µ‚Ü‚¹‚ñ‚©H
-subtitle: Œ»İAå‘ä‚Å‰‚ß‚Ä‚ÌDTS‚ğŠJÃ‚·‚é‚½‚ß‚Ì€”õ’iŠK‚Å‚·B
+title: ä»™å°ã®DTSã¯ã‚‚ã†ã™ãé–‹æ ¡ï¼
+# subtitle: å‡ºé¡˜æ–¹æ³•
 
 design:
-  columns: "1"
+  columns: "2"
 
   #spacing:
   #  padding: ["20px", "0", "20px", "0"]
 
 ---
+
+ç¾åœ¨ã€ä»™å°ã§åˆã‚ã¦ã®DTSã‚’é–‹å‚¬ã™ã‚‹ãŸã‚ã®æº–å‚™æ®µéšã§ã™ã€‚
+
+å¿œå‹Ÿæ–¹æ³•ãªã©ã€è©³ç´°ã¯è¿‘æ—¥ä¸­ã«ãŠçŸ¥ã‚‰ã›ã—ã¾ã™ã€‚
