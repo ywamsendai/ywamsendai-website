@@ -14,9 +14,9 @@ design:
 
 ---
 
-We desire a place to host events to invite the local community to. Events that will help us to make friends and connections, with the hope of drawing people to know Jesus.
+We desire to have a place to host events to invite the local community to. Events that will help us to make friends and connections, with the hope of drawing people to know Jesus.
 
-Here are some events we would love to host:
+Here are some events we would like to host:
 
 * Christmas/New Year outreach
 * Easter outreach
