@@ -23,7 +23,7 @@ design:
 
 ---
 
-現在、仙台で初めてのDTSを開催するための準備段階です。
+We are currently in the preparation phase of our first ever DTS here in Sendai!
 
-応募方法など、詳細は近日中にお知らせします。
+Please check back soon for more details, including how to apply!
 
