@@ -1,6 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\config",
+    "\\config\\_default",
+    "\\content",
+    "\\content\\en",
+    "\\content\\en\\dts",
+    "\\content\\ja",
+    "\\content\\ja\\dts"
   ],
+  "SelectedNode": "\\content\\ja\\dts\\detail.md",
   "PreviewInSolutionExplorer": false
 }

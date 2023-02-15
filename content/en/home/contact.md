@@ -42,10 +42,6 @@ content:
       icon_pack: fab
       name: Chat on Telegram
       link: 'https://t.me/joinchat/O4PX5BsUYLG64lCazgT8Ng'
-    - icon: comments
-      icon_pack: fas
-      name: Chat on Element
-      link: 'https://app.element.io/#/group/+ywamsendai:matrix.org'
     - icon: facebook
       icon_pack: fab
       name: Message on Facebook
