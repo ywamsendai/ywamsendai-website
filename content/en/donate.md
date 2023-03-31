@@ -1,4 +1,4 @@
----
+ï»¿---
 title: Donations/Payments
 draft: false
 share: false
@@ -21,7 +21,7 @@ To save money on fees, we recommend using a money transfer service for sending m
 
 * Recipient type: "A business / charity"
 * Their email: admin@ywamsendai.org
-* Name of the business / organisation: ƒVƒ…ƒEƒLƒ‡ƒEƒzƒEƒWƒ“@ƒZƒJƒCƒZƒCƒlƒ“ƒZƒ“ƒLƒ‡ƒEƒJƒC (please copy and paste this to avoid mistakes!)
+* Name of the business / organisation: ã‚·ãƒ¥ã‚¦ã‚­ãƒ§ã‚¦ãƒ›ã‚¦ã‚¸ãƒ³ã€€ã‚»ã‚«ã‚¤ã‚»ã‚¤ãƒãƒ³ã‚»ãƒ³ã‚­ãƒ§ã‚¦ã‚«ã‚¤ (please copy and paste this to avoid mistakes!)
 * Bank name: [9900] Japan Post Bank (Yucho)
 * Branch name: [018] Zero Ichi Hachi
 * Account type: (Futsuu) Savings/General
