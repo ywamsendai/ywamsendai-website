@@ -5,10 +5,10 @@
     "\\config\\_default",
     "\\content",
     "\\content\\en",
-    "\\content\\en\\dts",
+    "\\content\\en\\home",
     "\\content\\ja",
-    "\\content\\ja\\dts"
+    "\\content\\ja\\home"
   ],
-  "SelectedNode": "\\content\\ja\\dts\\detail.md",
+  "SelectedNode": "\\content\\ja\\home\\contact.md",
   "PreviewInSolutionExplorer": false
 }

@@ -1,5 +1,5 @@
 ---
-title: Donate
+title: Donations/Payments
 draft: false
 share: false
 commentable: false
@@ -13,23 +13,23 @@ header:
 
 Each member of our team is supported financially to serve with us in Japan. That being the case, YWAM Sendai has its own expenses, such as ministry expenses. We are also desiring to purchase property for office and meeting space, as well as accommodation for staff, teams, volunteers, and students. We would also like to own a vehicle to make it easier to travel around this region. If you would like to give towards YWAM Sendai, please use the following bank details depending on your location.
 
+You can also use these details to make any payments such as staff fees or school registration/lecture fees.
+
 ## International
 
-To save money on fees, we recommend using a money transfer service for sending money internationally, rather than directly via your bank. One service we recommend is [Wise](https://www.wise.com/). Here are details you may need:
+To save money on fees, we recommend using a money transfer service for sending money internationally, rather than directly via your bank. We recommend a service called [Wise](https://www.wise.com/). Here are details you will need for a Wise transfer:
 
-* SWIFT code: JPPSJPJJ
-* Branch name: JAPAN POST BANK, CO., LTD
-* Branch: OTEMACHI, 2-3-1
-* Branch code: IRS
-* Bank name: JAPAN POST BANK, CO., LTD
-* Bank Address: CHIYODA-KU
-* Country: JAPAN
+* Recipient type: "A business / charity"
+* Their email: admin@ywamsendai.org
+* Name of the business / organisation: シュウキョウホウジン　セカイセイネンセンキョウカイ (please copy and paste this to avoid mistakes!)
+* Bank name: [9900] Japan Post Bank (Yucho)
+* Branch name: [018] Zero Ichi Hachi
+* Account type: (Futsuu) Savings/General
+* Account number: 6530504
 
-* Account number: 10140-65305041
-* Account name: SHUUKYOUHOUJIN SEKAISEINENSENKYOUKAI
-* Recipient's address: 2-15-3 Kanmaki-cho, Takatsuki-shi, Osaka-fu, 569-0003, JAPAN
+If you have issues sending your money via Wise, please let us know.
 
-Please send us an email telling us you have sent your donation, including the amount and date of transfer, to admin@ywamsendai.org
+Please send us an email telling us you have sent your donation/payment, including the amount and date of transfer, to admin@ywamsendai.org
 
 ## Within Japan
 
