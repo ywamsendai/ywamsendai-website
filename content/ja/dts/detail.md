@@ -19,6 +19,6 @@ feature:
   - icon: yen-sign
     icon_pack: fas
     name: 学費
-    description: 講義期間：53万円<br><br>アウトリーチ期間：35万円程度（アウトリーチ先による）
+    description: 講義期間：53万円　｜　アウトリーチ期間：35万円程度（アウトリーチ先による）
 
 ---
