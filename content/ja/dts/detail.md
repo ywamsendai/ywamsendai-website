@@ -11,7 +11,7 @@ feature:
   - icon: scroll
     icon_pack: fas
     name: 申し込む
-    description: 応募フォームを近日公開予定
+    description: 申込書を近日公開予定
   - icon: calendar
     icon_pack: fas
     name: 日付

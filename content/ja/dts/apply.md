@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: 日本に特化したDTSに参加しませんか？
+title: 国際的なDTSに参加しましょう！
 subtitle: 現在、仙台で初めてのDTSを開催するための準備段階です。
 
 design:

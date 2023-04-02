@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: 濃密な6ヶ月間
+title: 集中4～6ヶ月間
 subtitle: 弟子訓練学校（DTS）とは
 
 design:
