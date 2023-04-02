@@ -11,14 +11,14 @@ feature:
   - icon: scroll
     icon_pack: fas
     name: Apply
-    description: Application form coming soon!
+    description: "Application form coming soon!"
   - icon: calendar
     icon_pack: fas
     name: Dates
-    description: 13 October 2023 - 23 February 2024 (subject to change)
+    description: "13 October 2023 - 23 February 2024 (subject to change)"
   - icon: yen-sign
     icon_pack: fas
     name: Cost
-    description: Lecture Phase: 530,000 JPY. Outreach Phase: Around 350,000 JPY (Depending on outreach locations)
+    description: "Lecture Phase: 530,000 JPY | Outreach Phase: Around 350,000 JPY (Depending on outreach locations)"
 
 ---
