@@ -19,6 +19,6 @@ feature:
   - icon: yen-sign
     icon_pack: fas
     name: Cost
-    description: Lecture Phase: 530,000 JPY | Outreach Phase: Around 350,000 JPY (Depending on outreach locations)
+    description: Lecture Phase: 530,000 JPY. Outreach Phase: Around 350,000 JPY (Depending on outreach locations)
 
 ---
