@@ -15,10 +15,10 @@ feature:
   - icon: calendar
     icon_pack: fas
     name: 日付
-    description: 2023年
+    description: 2023年10月13日 - 2024年2月23日（変更になる場合があります）
   - icon: yen-sign
     icon_pack: fas
     name: 学費
-    description: 未定です。詳細は近日公開
+    description: 講義期間：53万円<br><br>アウトリーチ期間：35万円程度（アウトリーチ先による）
 
 ---
