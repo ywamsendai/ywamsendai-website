@@ -47,4 +47,4 @@ To join YWAM Sendai staff you first need to complete a Discipleship Training Sch
 
 To find out more about staffing with us, please check out our wiki or contact us with any questions.
 
-[Find out more >](https://docs.ywamsendai.jp/ywam/join)
+[Find out more >](http://docs.ywamsendai.org/docs/community/join)
