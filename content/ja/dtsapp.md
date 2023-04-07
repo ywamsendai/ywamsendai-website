@@ -1,5 +1,5 @@
 ﻿---
-title: DTS生徒申込書
+title: DTS生徒申込
 draft: false
 share: false
 commentable: false

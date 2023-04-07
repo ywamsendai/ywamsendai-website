@@ -1,4 +1,4 @@
 ---
-title: Discipleship Training School (YWAM DTS)
+title: Japanese-English Discipleship Training School (JE-DTS)
 type: "widget_page"
 ---

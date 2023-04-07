@@ -23,6 +23,6 @@ design:
 
 ---
 
-The DTS is a six month program blending classroom learning, small group activities, personal reflection, practical service, and community living.
+The JE-DTS is a nineteen-week bilingual programme blending classroom learning, small group activities, personal reflection, practical service, and community living.
 
-Most often, the training comes in two parts: lecture phase and outreach phase.
+The training comes in two parts: training phase and outreach phase.

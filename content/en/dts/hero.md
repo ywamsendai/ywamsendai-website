@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 1
-title: Pursue God. Be activated.
+title: Know God. Make Him Known.
 #hero_media:
 #cta:
 #  label: '**活動拠点**'
@@ -30,4 +30,4 @@ design:
       padding: ["200px", "0", "200px", "0"]
 ---
 
-Discipleship Training School
+Japanese-English Discipleship Training School

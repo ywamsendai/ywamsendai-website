@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 32
 
-title: Make Him known.
+title: Make Him Known.
 subtitle: Outreach Phase
 
 design:
@@ -29,14 +29,12 @@ design:
 
 # Field Placement
 
-The DTS outreach phase will give you the chance to apply the principles you learned during your DTS lecture phase. You can put all of your new perspective into action by sharing God’s truth in different places all around the world. The goal is to share the love of God which you have experienced in your own life.
+The DTS outreach phase will give you the chance to apply the principles you learned during your DTS training phase. You can put all of your new perspective into action by sharing God’s truth in different places all around the world. The goal is to share the love of God which you have experienced in your own life.
 
 # Your Outreach Location
 
-There are many kinds of locations for DTS outreach–a whole world, in fact! Some DTS or YWAM locations will have already decided where outreach will be held beforehand. Others will decide on these locations after you arrive.
-
-When you click on a DTS you’re interested in you’ll see a list of outreach destinations for that DTS, if they have announced this information.
+On a Sendai DTS, your outreach phase will include traveling overseas to another unreached nation within Asia, as well as other locations within Japan.
 
 # Debrief
 
-By the time outreach ends, you will have seen and experienced a lot of new things. This is why many DTSes hold a debrief time at the end of outreach. It is a time to regroup, share stories of how God moved, and process what God did through you and others during the DTS. It’s also a time to explore your next steps after DTS.
+By the time outreach ends, you will have seen and experienced a lot of new things. This is why our DTSes hold a debrief time at the end of outreach. It is a time to regroup, share stories of how God moved, and process what God did through you and others during the DTS. It’s also a time to explore your next steps after DTS.

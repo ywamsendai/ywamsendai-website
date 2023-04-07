@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 1
-title: 立ち止まり、神様を求めてみよう
+title: 神を知り。神を知らせる。
 #hero_media:
 #cta:
 #  label: '**活動拠点**'
@@ -30,4 +30,4 @@ design:
       padding: ["200px", "0", "200px", "0"]
 ---
 
-弟子訓練学校（DTS）
+日英弟子訓練学校（JE-DTS）

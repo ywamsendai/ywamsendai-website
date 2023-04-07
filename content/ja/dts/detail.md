@@ -4,21 +4,16 @@ headless: true
 active: true
 weight: 42
 
-title: 詳細
-subtitle: 知っておきたいこと
+title: プログラム情報
 
 feature:
-  - icon: scroll
-    icon_pack: fas
-    name: 申し込む
-    description: 申込書を近日公開予定
   - icon: calendar
     icon_pack: fas
     name: 日付
-    description: 2023年10月13日 - 2024年2月23日（変更になる場合があります）
+    description: 開始：2023年10月13日　｜　終了：2024年2月23日
   - icon: yen-sign
     icon_pack: fas
     name: 学費
-    description: 講義期間：48万５千円　｜　アウトリーチ期間：35万円程度（アウトリーチ先による）
+    description: 訓練：48万５千円　｜　アウトリーチ：30万～40万円
 
 ---

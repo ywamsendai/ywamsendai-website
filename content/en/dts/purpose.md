@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: The Discipleship Training School (YWAM DTS) gives you an opportunity to discover your passions and your part in God’s purposes for the world.
-subtitle: It is for those who long to follow Jesus in new ways with a different perspective.
+title: The Japanese-English Discipleship Training School (JE-DTS) gives you an opportunity to discover your passions and your part in God’s purposes for the world.
+subtitle: It is especially for those who desire to know God and to make Him known to the Japanese.
 
 design:
   columns: "1"
