@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: 申し込む
+title: Apply
 
 design:
   columns: "2"
@@ -22,4 +22,4 @@ design:
 
 ---
 
-{{< cta cta_text="日英弟子訓練学校（JE-DTS）に申し込む" cta_link="/ja/dtsapp.md" cta_new_tab="false" >}}
+{{< cta cta_text="Apply for the Japanese-English DTS (JE-DTS)" cta_link="/en/dtsapp.md" cta_new_tab="false" >}}
