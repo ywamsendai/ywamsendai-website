@@ -23,6 +23,4 @@ These are the requirements to apply for this DTS:
 - Be able to communicate in either English or Japanese
 - Be of a nationality where you do not need a visa to visit Japan for up to 90 days ([Go here](https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html) for details)
 
-Note: In accordance with the Act on the Protection of Personal Information ("APPI"), the information provided on this application form will be held securely, confidentially and will not be kept for longer than is necessary to achieve the stated purposes of recruitment, selection, supplementary personal details and statistics, or that required by law.
-
 {{< gdocs src="https://docs.google.com/forms/d/e/1FAIpQLSd7VFAFBAGj12zcxaV1kingTaAQFhW_zzKRA1FhO7nkBowMJw/viewform?embedded=true" >}}
