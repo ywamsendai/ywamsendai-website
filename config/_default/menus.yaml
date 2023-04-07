@@ -4,18 +4,15 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  #- name: Discipleship Training School
-  #  url: '/dts'
-  #  weight: 10
+  - name: DTS
+    url: '/dts'
+    weight: 10
   - name: Get Involved
     url: '/get-involved'
     weight: 20
   - name: Who We Are
     url: '/who'
     weight: 30
-  - name: DTS
-    url: '/dts'
-    weight: 32
   - name: Building
     url: '/building'
     weight: 35
@@ -29,5 +26,5 @@ main:
     url: '/donate'
     weight: 60
   - name: For YWAMers
-    url: 'https://wiki.ywamsendai.org'
+    url: 'https://docs.ywamsendai.org'
     weight: 70

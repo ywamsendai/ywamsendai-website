@@ -17,15 +17,15 @@ ja:
     description: 神を知り、神を知らせる
   menu:
     main:
+      - name: DTS
+        url: '/dts'
+        weight: 10
       - name: 参加する
         url: '/get-involved'
         weight: 20
       - name: ワイワムとは
         url: '/who'
         weight: 30
-      - name: DTS
-        url: '/dts'
-        weight: 32
       - name: ベース
         url: '/building'
         weight: 35
@@ -39,5 +39,5 @@ ja:
         url: '/donate'
         weight: 60
       - name: ワイワマーへ（英語）
-        url: 'https://wiki.ywamsendai.org'
+        url: 'https://docs.ywamsendai.org'
         weight: 70
