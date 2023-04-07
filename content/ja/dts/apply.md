@@ -22,4 +22,4 @@ design:
 
 ---
 
-{{< cta cta_text="日英弟子訓練学校（JE-DTS）に申し込む" cta_link="/dtsapp" cta_new_tab="false" >}}
+{{< cta cta_text="日英弟子訓練学校（JE-DTS）に申し込む" cta_link="/../dtsapp.md" cta_new_tab="false" >}}
