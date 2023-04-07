@@ -10,14 +10,18 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 45
+weight: 46
 
-title: Programme Information
+title: Dates
 
 design:
-  columns: "1"
+  columns: "2"
 
   #spacing:
   #  padding: ["20px", "0", "20px", "0"]
 
 ---
+
+**Start:** 13 October 2023
+
+**End:** 23 February 2024

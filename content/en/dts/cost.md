@@ -10,14 +10,18 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 45
+weight: 47
 
-title: Programme Information
+title: Costs
 
 design:
-  columns: "1"
+  columns: "2"
 
   #spacing:
   #  padding: ["20px", "0", "20px", "0"]
 
 ---
+
+**Training phase:** 485,000 JPY
+
+**Outreach phase:** 300,000 - 400,000 JPY
