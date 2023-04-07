@@ -10,14 +10,18 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 45
+weight: 47
 
-title: Programme Information
+title: 学費
 
 design:
-  columns: "1"
+  columns: "2"
 
   #spacing:
   #  padding: ["20px", "0", "20px", "0"]
 
 ---
+
+**訓練期間：** 48万５千円
+
+**アウトリーチ期間：** 30万～40万円

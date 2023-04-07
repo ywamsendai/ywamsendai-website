@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 45
 
-title: Programme Information
+title: ƒvƒƒOƒ‰ƒ€î•ñ
 
 design:
   columns: "1"

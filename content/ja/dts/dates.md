@@ -10,14 +10,18 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 45
+weight: 46
 
-title: Programme Information
+title: 日付
 
 design:
-  columns: "1"
+  columns: "2"
 
   #spacing:
   #  padding: ["20px", "0", "20px", "0"]
 
 ---
+
+**開始：** 2023年10月13日
+
+**終了：** 2024年2月23日

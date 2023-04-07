@@ -1,7 +1,7 @@
 ﻿---
 widget: featurette
 headless: true
-active: true
+active: false
 weight: 42
 
 title: Programme Information
