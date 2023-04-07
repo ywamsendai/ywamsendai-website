@@ -4,21 +4,22 @@
 widget: blank
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
-title: 国際的なDTSに参加しましょう！
-subtitle: 現在、仙台で初めてのDTSを開催するための準備段階です。
+title: 申し込む
 
 design:
-  columns: "1"
+  columns: "2"
 
   #spacing:
   #  padding: ["20px", "0", "20px", "0"]
 
 ---
+
+{{< cta cta_text="日英弟子訓練学校（JE-DTS）に申し込む" cta_link="/dtsapp" cta_new_tab="false" >}}
