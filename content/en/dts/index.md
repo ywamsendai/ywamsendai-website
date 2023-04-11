@@ -1,4 +1,4 @@
 ---
-title: Japanese-English Discipleship Training School (JE-DTS)
+title: Discipleship Training School (DTS)
 type: "widget_page"
 ---

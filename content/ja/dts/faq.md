@@ -10,15 +10,16 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 48
 
-title: The Discipleship Training School (DTS) gives you an opportunity to discover your passions and your part in Godâ€™s purposes for the world.
-subtitle: Our DTS is especially for those who desire to know God and to make Him known to the Japanese.
+title: ‚æ‚­‚ ‚éŽ¿–â
 
 design:
-  columns: "1"
+  columns: "2"
 
   #spacing:
   #  padding: ["20px", "0", "20px", "0"]
 
 ---
+
+[‚æ‚­‚ ‚éŽ¿–â‚És‚­@>>](https://docs.ywamsendai.org/ja/docs/dts/faq/)

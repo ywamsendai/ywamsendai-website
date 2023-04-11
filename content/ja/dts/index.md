@@ -1,4 +1,4 @@
 ---
-title: 日英弟子訓練学校 (JE-DTS)
+title: ＤＴＳ (弟子訓練学校)
 type: "widget_page"
 ---

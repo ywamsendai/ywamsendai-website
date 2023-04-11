@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: DTSはクリスチャンとしての土台を築き上げる訓練プログラムです。
+title: ＤＴＳはクリスチャンとしての土台を築き上げる訓練プログラムです。
 subtitle: 神様との関係を親密にし、宣教の働きの役に立ちたいという願いと召命を明確にします。
 
 design:

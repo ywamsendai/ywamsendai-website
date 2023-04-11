@@ -6,11 +6,10 @@
     "\\config\\_default",
     "\\content",
     "\\content\\en",
-    "\\content\\en\\dts",
     "\\content\\en\\home",
     "\\content\\ja",
-    "\\content\\ja\\dts"
+    "\\content\\ja\\home"
   ],
-  "SelectedNode": "\\content\\en\\dts\\apply.md",
+  "SelectedNode": "\\content\\en\\get-involved",
   "PreviewInSolutionExplorer": false
 }
