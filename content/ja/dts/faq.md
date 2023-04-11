@@ -1,4 +1,4 @@
----
+ï»¿---
 # An instance of the Blank widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: blank
@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 48
 
-title: ‚æ‚­‚ ‚éŽ¿–â
+title: ã‚ˆãã‚ã‚‹è³ªå•
 
 design:
   columns: "2"
@@ -22,4 +22,4 @@ design:
 
 ---
 
-[‚æ‚­‚ ‚éŽ¿–â‚És‚­@>>](https://docs.ywamsendai.org/ja/docs/dts/faq/)
+[ã‚ˆãã‚ã‚‹è³ªå•ã«è¡Œãã€€>>](https://docs.ywamsendai.org/ja/docs/dts/faq/)
