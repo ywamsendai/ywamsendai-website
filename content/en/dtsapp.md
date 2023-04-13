@@ -21,6 +21,6 @@ These are the requirements to apply for this DTS:
 
 - Be at least 18 years old by the end of March 2024
 - Be able to communicate in either English or Japanese
-- Be of a nationality where you do not need a visa to visit Japan for up to 90 days ([Go here](https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html) for details)
+- Be able to be in Japan for up to 90 days without a visa, or be eligible for a 90 day eVisa ([Go here](https://docs.ywamsendai.org/docs/dts/faq/#do-i-need-a-visa-to-attend) for details)
 
 {{< gdocs src="https://docs.google.com/forms/d/e/1FAIpQLSd7VFAFBAGj12zcxaV1kingTaAQFhW_zzKRA1FhO7nkBowMJw/viewform?embedded=true" >}}

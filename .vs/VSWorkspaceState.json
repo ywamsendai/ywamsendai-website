@@ -3,13 +3,11 @@
     "",
     "\\assets",
     "\\config",
-    "\\config\\_default",
     "\\content",
     "\\content\\en",
-    "\\content\\en\\home",
     "\\content\\ja",
-    "\\content\\ja\\home"
+    "\\content\\ja\\dts"
   ],
-  "SelectedNode": "\\content\\en\\get-involved",
+  "SelectedNode": "\\content\\ja\\dtsapp.md",
   "PreviewInSolutionExplorer": false
 }
