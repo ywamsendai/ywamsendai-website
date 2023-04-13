@@ -13,7 +13,7 @@ headless: true
 weight: 31
 
 title: Know God.
-subtitle: Training Phase
+subtitle: Lecture Phase
 
 design:
   columns: "2"
@@ -23,13 +23,13 @@ design:
 
 ---
 
-![Training](training.JPG "Training")
+![Lecture](lecture.JPG "Lecture")
 
-**The Discipleship Training School (DTS) training phase provides classroom learning, community-bonding, and heart change. It’s a chance to have your perspectives altered and your view of God deepened.**
+**The Discipleship Training School (DTS) lecture phase provides classroom learning, community-bonding, and heart change. It’s a chance to have your perspectives altered and your view of God deepened.**
 
 # Class
 
-The eleven week training phase engages the mind. You will receive powerful teaching from motivating speakers and missionaries, meant to provoke, challenge, and encourage. Issues like hearing the voice of God, identity, sin and forgiveness, and much more are discussed. Classroom time is a chance to build friendships and dig deeper into the questions we all have.
+The eleven week lecture phase engages the mind. You will receive powerful teaching from motivating speakers and missionaries, meant to provoke, challenge, and encourage. Issues like hearing the voice of God, identity, sin and forgiveness, and much more are discussed. Classroom time is a chance to build friendships and dig deeper into the questions we all have.
 
 # Practical Work
 
@@ -37,7 +37,7 @@ A key part of character development is serving those around us. A part of DTS is
 
 # Small Groups and One-On-One
 
-Perhaps one of the most important parts of DTS is small groups and one-on-one discipleship. These times will allow you to process what you’re learning about God in a safe environment. One-on-ones are usually held with a DTS staff member, someone who is with you throughout the entire training phase. It is their goal to help you grow through mentorship and counsel.
+Perhaps one of the most important parts of DTS is small groups and one-on-one discipleship. These times will allow you to process what you’re learning about God in a safe environment. One-on-ones are usually held with a DTS staff member, someone who is with you throughout the entire lecture phase. It is their goal to help you grow through mentorship and counsel.
 
 Small groups are held with other DTS students. Here, you can see how your other classmates are being challenged as well. With discussions and personal input into what you’re learning, these are not only times to get to know your classmates better, but also a time to experience the change in others.
 

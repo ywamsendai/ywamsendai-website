@@ -13,7 +13,7 @@ headless: true
 weight: 30
 
 title: Intensive Training
-subtitle: What is a Discipleship Training School
+subtitle: What is a Discipleship Training School?
 
 design:
   columns: "2"
@@ -25,4 +25,4 @@ design:
 
 The DTS is a nineteen-week bilingual programme blending classroom learning, small group activities, personal reflection, practical service, and community living.
 
-The training comes in two parts: training phase and outreach phase.
+The training comes in two parts: lecture phase and outreach phase.
