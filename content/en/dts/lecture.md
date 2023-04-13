@@ -23,7 +23,7 @@ design:
 
 ---
 
-![Lecture](lecture.JPG "Lecture")
+![Lecture](lecture.JPG)
 
 **The Discipleship Training School (DTS) lecture phase provides classroom learning, community-bonding, and heart change. It’s a chance to have your perspectives altered and your view of God deepened.**
 

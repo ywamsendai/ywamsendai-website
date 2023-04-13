@@ -23,7 +23,7 @@ design:
 
 ---
 
-![Outreach](outreach.JPG "Outreach")
+![Outreach](outreach.JPG)
 
 **During the Discipleship Training School (DTS) outreach phase, you will join with others to take the message and love of God across the world. You will learn about the diversity of cultures and will participate in God’s purposes for the places you visit.**
 
