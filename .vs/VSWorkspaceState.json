@@ -1,15 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
     "\\assets\\media",
     "\\config",
     "\\content",
     "\\content\\en",
-    "\\content\\en\\dts",
     "\\content\\ja",
     "\\content\\ja\\dts"
   ],
-  "SelectedNode": "\\assets\\media\\outreach.jpg",
+  "SelectedNode": "\\content\\ja\\dtsref.md",
   "PreviewInSolutionExplorer": false
 }

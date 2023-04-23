@@ -22,6 +22,6 @@ design:
 
 ---
 
-**Training phase:** 485,000 JPY
+**Lecture phase:** 485,000 JPY
 
 **Outreach phase:** 300,000 - 400,000 JPY
