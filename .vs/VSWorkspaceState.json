@@ -4,9 +4,10 @@
     "\\config",
     "\\content",
     "\\content\\en",
-    "\\content\\en\\home",
+    "\\content\\en\\dts",
     "\\content\\ja",
-    "\\content\\ja\\dts"
+    "\\content\\ja\\dts",
+    "\\content\\ja\\home"
   ],
   "PreviewInSolutionExplorer": false
 }
