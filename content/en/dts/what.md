@@ -23,6 +23,6 @@ design:
 
 ---
 
-The DTS is a nineteen-week bilingual programme blending classroom learning, small group activities, personal reflection, practical service, and community living.
+The DTS is a nineteen-week programme blending classroom learning, small group activities, personal reflection, practical service, and community living.
 
 The training comes in two parts: lecture phase and outreach phase.
