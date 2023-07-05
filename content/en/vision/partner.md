@@ -19,12 +19,14 @@ As you can see, we have a lot of things we want to see pioneered here. And we be
 
 There are two ways you can partner with us:
 
-**Join Us**
+**JOIN US**
+
 You, or someone you know, can come join us here! 
 
 [Get involved >]({{< ref "/get-involved/index.md" >}})
 
-**Give Financially**
+**GIVE FINANCIALLY**
+
 The things we are beliving for require a lot of money! Though some of the things we want to do can be done with rented property, we would also like to own property (and land!).
 
 Please pray about donating, especially so we can own property!

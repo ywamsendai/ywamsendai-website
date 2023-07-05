@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 1
-title: 国際ミッションハブ。
+title: ビジョン。
 #hero_media:
 #cta:
 #  label: '**活動拠点**'
@@ -19,7 +19,7 @@ design:
   background:
 #    gradient_end: '#1976d2'
 #    gradient_start: '#004ba0'
-    image: building.JPG
+    image: garden.jpg
     image_darken: 0.6
     image_size: cover
     image_position: center

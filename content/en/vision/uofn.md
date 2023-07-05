@@ -14,7 +14,7 @@ design:
 
 ---
 
-We would like to establish different schools registered with YWAMÅfs University of the Nations that will help train and equip people to know God and to make Him known! We want to see people come to Sendai to go deeper with God, to find GodÅfs calling for their lives, to be equipped to make disciples, and to send them out to pioneer new works all over Tohoku, Japan, and the world--both Japanese and international students.
+We would like to establish different schools registered with YWAM's University of the Nations that will help train and equip people to know God and to make Him known! We want to see people come to Sendai to go deeper with God, to find God's calling for their lives, to be equipped to make disciples, and to send them out to pioneer new works all over Tohoku, Japan, and the world--both Japanese and international students.
 
 A few of the schools we want to see established here include:
 
