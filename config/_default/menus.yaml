@@ -13,8 +13,8 @@ main:
   - name: Who We Are
     url: '/who'
     weight: 30
-  - name: Building
-    url: '/building'
+  - name: Vision
+    url: '/vision'
     weight: 35
   - name: News
     url: 'https://www.medium.com/ywamsendai'

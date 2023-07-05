@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 1
-title: Base of Operations.
+title: 国際ミッションハブ。
 #hero_media:
 #cta:
 #  label: '**活動拠点**'
@@ -30,4 +30,4 @@ design:
       padding: ["200px", "0", "200px", "0"]
 ---
 
-Partner With Us!
+パートナーになろう！

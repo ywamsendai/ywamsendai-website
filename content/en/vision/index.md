@@ -1,4 +1,4 @@
 ---
-title: Base Building
+title: Vision
 type: "widget_page"
 ---

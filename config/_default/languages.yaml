@@ -26,8 +26,8 @@ ja:
       - name: ワイワムとは
         url: '/who'
         weight: 30
-      - name: ベース
-        url: '/building'
+      - name: ビジョン
+        url: '/vision'
         weight: 35
       - name: ニュース
         url: 'https://www.medium.com/ywamsendai'
@@ -38,6 +38,6 @@ ja:
       - name: 献金
         url: '/donate'
         weight: 60
-      - name: ワイワマーへ（英語）
-        url: 'https://docs.ywamsendai.org'
+      - name: ワイワマーへ
+        url: 'https://docs.ywamsendai.org/ja/'
         weight: 70

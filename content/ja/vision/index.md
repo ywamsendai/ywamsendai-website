@@ -1,4 +1,4 @@
 ---
-title: ベース
+title: ビジョン
 type: "widget_page"
 ---
