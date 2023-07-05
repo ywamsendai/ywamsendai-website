@@ -34,5 +34,6 @@ Of course, the desire is not to keep the community limited to online. We want to
 Note: Since putting words to this vision, COVID happened! Churches all over the world moved their church services online. While there have been benefits with this, there have been other negative consequences. Primarily, it has facilitated a form of ÅgchurchÅh without the fellowship. Something that one can watch or experience, whether live or recorded. This is not what we are envisioning here! (Not centred around a streamed weekly Ågchurch serviceÅh for example)
 
 Needs:
+
 - People with experience with online community
 - People with experience with discipleship and/church planting (and willing to try new things!)
