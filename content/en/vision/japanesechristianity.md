@@ -18,7 +18,7 @@ We really desire to see authentic expressions of Japanese Christianity! Right no
 
 Although we acknowledge the universal and international flavour of Christian expression, we feel there are ways God has designed the Japanese in how they naturally worship, pray, and interact with both the natural and supernatural that have not been given expression in much of the established church here.
 
-One question that comes to mind: What would a prayer space look like, where people can come to pray and encounter God 24/7? The Japanese have access to beautiful and peaceful Buddhist and Shinto gardens that are never closed. What would it be like to establish prayer gardens around Japan where the Japanese can simply come as they are, without the pressure of attending a church service or having to explain themselves to evangelists on the street?
+For example: What would a prayer space look like, where people can come to pray and encounter God 24/7? The Japanese have access to beautiful and peaceful Buddhist and Shinto gardens that are never closed. What would it be like to establish prayer gardens around Japan where the Japanese can simply come as they are, without the pressure of attending a church service or having to explain themselves to evangelists on the street?
 
 We would like to establish a group of people who can further this conversation--exploring ways to express Christian prayer and worship in ways that deeply touch the Japanese heart and mind.
 
