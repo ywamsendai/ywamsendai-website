@@ -2,10 +2,10 @@
 widget: blank
 active: true
 headless: true
-weight: 40
+weight: 50
 
 title: Partner with us!
-subtitle: We are looking for partners who will help us find a home
+subtitle: We are looking for partners who will join us in reaching the Japanese in Northern Japan.
 
 design:
   columns: "1"
@@ -15,8 +15,20 @@ design:
 
 ---
 
-We are praying and believing for a large property with good access to central Sendai. We are happy to rent in the short term, but owning properly will open up a lot more for us in the long term.
+As you can see, we have a lot of things we want to see pioneered here. And we believe this is just the start! We want to see new works pioneered all over the Tohoku region of Japan.
 
-Please pray about donating to our Building Fund!
+There are two ways you can partner with us:
+
+**Join Us**
+You, or someone you know, can come join us here! 
+
+[Get involved >]({{< ref "/get-involved/index.md" >}})
+
+**Give Financially**
+The things we are beliving for require a lot of money! Though some of the things we want to do can be done with rented property, we would also like to own property (and land!).
+
+Please pray about donating, especially so we can own property!
+
+(If you would like to give to something in particular, please let us know.)
 
 [Donate >]({{< ref "/donate.md" >}})

@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 1
-title: International Mission Hub.
+title: Our Vision.
 #hero_media:
 #cta:
 #  label: '**活動拠点**'
