@@ -24,4 +24,5 @@ Needs:
 
 - A facility!
 - People with skills, experiences and/or vision for a cafe / community centre
+- People with experience or knowledge about *hikikomori* and those with social difficulties, and/or suicide prevention
 - Finances to get started
