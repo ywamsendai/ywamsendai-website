@@ -1,14 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\config",
+    "\\assets\\media",
     "\\content",
-    "\\content\\en",
-    "\\content\\en\\dts",
+    "\\content\\en\\vision",
     "\\content\\ja",
-    "\\content\\ja\\dts",
-    "\\content\\ja\\home"
+    "\\content\\ja\\vision",
+    "\\static",
+    "\\static\\uploads"
   ],
-  "SelectedNode": "\\content\\en\\donate.md",
+  "SelectedNode": "\\content\\ja\\vision\\hero.md",
   "PreviewInSolutionExplorer": false
 }
