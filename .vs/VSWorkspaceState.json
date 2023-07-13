@@ -1,14 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets\\media",
     "\\content",
+    "\\content\\en",
     "\\content\\en\\vision",
     "\\content\\ja",
     "\\content\\ja\\vision",
     "\\static",
     "\\static\\uploads"
   ],
-  "SelectedNode": "\\content\\ja\\vision\\hero.md",
+  "SelectedNode": "\\content\\en\\vision\\cafe.md",
   "PreviewInSolutionExplorer": false
 }

@@ -22,4 +22,4 @@ design:
 
 ---
 
-{{< cta cta_text="ＤＴＳ（弟子訓練学校）に出願する" cta_link="/ja/dtsapp" cta_new_tab="false" >}}
+{{< cta cta_text="ＤＴＳ（弟子トレーニングスクール）に出願する" cta_link="/ja/dtsapp" cta_new_tab="false" >}}

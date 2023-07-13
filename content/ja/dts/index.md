@@ -1,4 +1,4 @@
 ---
-title: ＤＴＳ (弟子訓練学校)
+title: ＤＴＳ（弟子トレーニングスクール）
 type: "widget_page"
 ---
