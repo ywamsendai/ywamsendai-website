@@ -27,7 +27,7 @@ You, or someone you know, can come join us here!
 
 **GIVE FINANCIALLY**
 
-The things we are beliving for require a lot of money! Though some of the things we want to do can be done with rented property, we would also like to own property (and land!).
+The things we are believing for require a lot of money! Though some of the things we want to do can be done with rented property, we would also like to own property (and land!).
 
 Please pray about donating, especially so we can own property!
 

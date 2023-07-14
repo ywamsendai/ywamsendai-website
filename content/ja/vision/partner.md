@@ -1,11 +1,11 @@
-ï»¿---
+---
 widget: blank
 active: true
 headless: true
-weight: 40
+weight: 50
 
-title: ãƒ‘ãƒ¼ãƒˆãƒŠãƒ¼å‹Ÿé›†ä¸­
-subtitle: ç‰©ä»¶æŽ¢ã—ã‚’æ‰‹ä¼ã£ã¦ãã‚Œã‚‹ãƒ‘ãƒ¼ãƒˆãƒŠãƒ¼ã‚’å‹Ÿé›†ã—ã¦ã„ã¾ã™
+title: ƒp[ƒgƒi[‚É‚È‚ë‚¤I
+subtitle: •¨Œ’T‚µ‚ðŽè“`‚Á‚Ä‚­‚ê‚éƒp[ƒgƒi[‚ð•åW‚µ‚Ä‚¢‚Ü‚·
 
 design:
   columns: "1"
@@ -15,8 +15,22 @@ design:
 
 ---
 
-ä»™å°å¸‚ä¸­å¿ƒéƒ¨ã¸ã®ã‚¢ã‚¯ã‚»ã‚¹ãŒè‰¯ãã€åºƒã„æ•·åœ°ã‚’ç¢ºä¿ã§ãã‚‹ã‚ˆã†ç¥ˆã‚Šã€ä¿¡ã˜ã¦ã„ã¾ã™ã€‚çŸ­æœŸçš„ã«ã¯è³ƒè²¸ã§ã‚‚æ§‹ã„ã¾ã›ã‚“ãŒã€é•·æœŸçš„ã«ã¯ãã¡ã‚“ã¨ã—ãŸç‰©ä»¶ã‚’æ‰€æœ‰ã™ã‚‹ã“ã¨ã§ã€ã‚ˆã‚Šå¤šãã®ã“ã¨ãŒè¦‹ãˆã¦ãã‚‹ã¨æ€ã„ã¾ã™ã€‚
+‚²——‚Ì‚Æ‚¨‚èA‚±‚±‚É‚ÍŠJ‘ñ‚µ‚Ä‚à‚ç‚¢‚½‚¢‚±‚Æ‚ª‚½‚­‚³‚ñ‚ ‚è‚Ü‚·B ‚»‚µ‚ÄA‚±‚ê‚Í’P‚È‚éŽn‚Ü‚è‚Å‚·! “Œ–k’n•û‚ÅV‚½‚Èì•i‚ªŠJ‘ñ‚³‚ê‚é‚±‚Æ‚ðŠú‘Ò‚µ‚Ü‚·B
 
-å»ºç¯‰åŸºé‡‘ã¸ã®å¯„ä»˜ã«ã¤ã„ã¦ãŠç¥ˆã‚Šãã ã•ã„ã€‚
+ƒp[ƒgƒi[‚É‚È‚é‚É‚Í 2‚Â‚Ì•û–@‚ª‚ ‚è‚Ü‚·F
 
-[å¯„ä»˜ã™ã‚‹ã€€ï¼ž]({{< ref "/donate.md" >}})
+**ƒ`[ƒ€‚ÉŽQ‰Á‚·‚é**
+
+‚ ‚È‚½A‚Ü‚½‚Í‚ ‚È‚½‚Ì’m‚è‡‚¢‚ª‚±‚±å‘ä‚ÅŽ„‚½‚¿‚Ìƒ`[ƒ€‚ÉŽQ‰Á‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·!
+
+[ŽQ‰Á‚µ‚Ä‚Ý‚é >]({{< ref "/get-involved/index.md" >}})
+
+**Šñ•t‚·‚é**
+
+Ž„‚½‚¿‚ªÝ—§‚µ‚½‚¢‚à‚Ì‚É‚Í‚½‚­‚³‚ñ‚Ì‚¨‹à‚ª•K—v‚Å‚·I Ž„‚½‚¿‚ª‚â‚è‚½‚¢‚±‚Æ‚Ì’†‚É‚ÍA’À‘Ý•¨Œ‚Å‚àŽÀŒ»‚Å‚«‚é‚±‚Æ‚à‚ ‚è‚Ü‚·‚ªA•s“®ŽYi“y’n‚àIj‚ðŠ—L‚µ‚½‚¢‚Æl‚¦‚Ä‚¢‚Ü‚·B
+
+“Á‚ÉŽ„‚½‚¿‚ªàŽY‚ðŠ—L‚Å‚«‚é‚æ‚¤‚ÉAŽ„‚½‚¿‚Ö‚ÌŠñ•t‚É‚Â‚¢‚Ä‹F‚Á‚Ä‚­‚¾‚³‚¢B
+
+i“Á’è‚ÌŠñ•t‚ð‚²Šó–]‚Ìê‡‚Í‚¨’m‚ç‚¹‚­‚¾‚³‚¢Bj
+
+[Šñ•t‚·‚é@„]({{< ref "/donate.md" >}})

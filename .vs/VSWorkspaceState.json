@@ -3,12 +3,12 @@
     "",
     "\\content",
     "\\content\\en",
-    "\\content\\en\\vision",
     "\\content\\ja",
     "\\content\\ja\\vision",
+    "\\content\\ja\\vision (2)",
     "\\static",
     "\\static\\uploads"
   ],
-  "SelectedNode": "\\content\\en\\vision\\cafe.md",
+  "SelectedNode": "\\content\\en\\vision",
   "PreviewInSolutionExplorer": false
 }

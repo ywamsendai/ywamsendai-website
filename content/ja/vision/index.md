@@ -1,4 +1,4 @@
 ---
-title: ãƒ“ã‚¸ãƒ§ãƒ³
+title: ƒrƒWƒ‡ƒ“
 type: "widget_page"
 ---
