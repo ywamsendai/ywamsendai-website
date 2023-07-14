@@ -1,11 +1,11 @@
----
+﻿---
 widget: blank
 active: true
 headless: true
 weight: 10
 
-title: �Â܂��āA�킽�������_�ł��邱�Ƃ�m��B�i����46�F10�j
-subtitle: �������͂����銈����ʂ��āA�l�X���X�g���X��v���b�V���[�������邱�ƂȂ��_�l�ɉ��ꏊ��񋟂������Ɗ���Ă��܂��B
+title: 静まって、わたしこそ神であることを知れ。（詩編46：10）
+subtitle: 私たちはあらゆる活動を通じて、人々がストレスやプレッシャーを感じることなく神様に会える場所を提供したいと願っています。
 
 design:
   columns: "1"
