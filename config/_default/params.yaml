@@ -42,7 +42,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} ywam&reg;sendai.jp. All rights reserved. Part of the YWAM Family of Ministries.'
+    notice: '© {year} ywam&reg;sendai.org. All rights reserved. Part of the YWAM Family of Ministries.'
     license:
       enable: false
       allow_derivatives: false

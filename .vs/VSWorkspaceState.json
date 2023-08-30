@@ -1,13 +1,17 @@
 {
   "ExpandedNodes": [
     "",
+    "\\config",
+    "\\config\\_default",
     "\\content",
-    "\\content\\en",
-    "\\content\\ja",
-    "\\content\\ja\\vision",
+    "\\content\\en\\dts",
+    "\\content\\ja\\dts",
+    "\\layouts",
+    "\\layouts\\partials",
+    "\\layouts\\partials\\blocks",
     "\\static",
     "\\static\\uploads"
   ],
-  "SelectedNode": "\\content\\ja\\vision\\japanesechristianity.md",
+  "SelectedNode": "\\layouts\\partials\\blocks\\about.html",
   "PreviewInSolutionExplorer": false
 }
