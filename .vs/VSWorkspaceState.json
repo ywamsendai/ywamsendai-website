@@ -4,14 +4,14 @@
     "\\config",
     "\\config\\_default",
     "\\content",
+    "\\content\\en",
     "\\content\\en\\dts",
-    "\\content\\ja\\dts",
     "\\layouts",
     "\\layouts\\partials",
     "\\layouts\\partials\\blocks",
     "\\static",
     "\\static\\uploads"
   ],
-  "SelectedNode": "\\layouts\\partials\\blocks\\about.html",
+  "SelectedNode": "\\content\\en\\dts\\apply.md",
   "PreviewInSolutionExplorer": false
 }
