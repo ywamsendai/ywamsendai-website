@@ -19,7 +19,7 @@ header:
 
 このＤＴＳに出願するための条件は以下の通りです：
 
-- 2024年3月末の時点で18歳以上であること。
+- 2025年2月末の時点で18歳以上であること。
 - 日本語または英語でコミュニケーションが取れること
 
 {{< gdocs src="https://docs.google.com/forms/d/e/1FAIpQLSfkKRYq5s2H7S1BocgLfsLf4VaMHZCupMfNI2OovKQaUWfvrA/viewform?embedded=true" >}}

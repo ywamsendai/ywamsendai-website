@@ -19,7 +19,7 @@ If you are married and are both wishing to join as students, you will both need 
 
 These are the requirements to apply for this DTS:
 
-- Be at least 18 years old by the end of March 2024
+- Be at least 18 years old by the end of February 2025
 - Be able to communicate in either English or Japanese
 - Be able to be in Japan for up to 90 days without a visa, or be eligible for a 90 day eVisa ([Go here](https://docs.ywamsendai.org/docs/dts/faq/#do-i-need-a-visa-to-attend) for details)
 

@@ -5,13 +5,12 @@
     "\\config\\_default",
     "\\content",
     "\\content\\en",
-    "\\content\\en\\dts",
+    "\\content\\en\\sbs",
     "\\layouts",
     "\\layouts\\partials",
     "\\layouts\\partials\\blocks",
     "\\static",
     "\\static\\uploads"
   ],
-  "SelectedNode": "\\content\\en\\dts\\apply.md",
   "PreviewInSolutionExplorer": false
 }

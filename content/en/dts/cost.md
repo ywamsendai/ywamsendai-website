@@ -22,6 +22,6 @@ design:
 
 ---
 
-**Lecture phase:** 450,000 JPY
+**Lecture phase:** TBA
 
-**Outreach phase:** 350,000 JPY
+**Outreach phase:** TBA

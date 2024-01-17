@@ -22,6 +22,8 @@ design:
 
 ---
 
-**Start:** 13 October 2023
+Exact dates to be confirmed
 
-**End:** 23 February 2024
+**Start:** October 2024
+
+**End:** February 2025
