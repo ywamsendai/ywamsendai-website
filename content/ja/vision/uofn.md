@@ -2,7 +2,7 @@
 widget: blank
 active: true
 headless: true
-weight: 45
+weight: 15
 
 title: 国際大学（UofN）
 

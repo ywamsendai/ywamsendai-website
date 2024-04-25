@@ -2,7 +2,7 @@
 widget: blank
 active: true
 headless: true
-weight: 35
+weight: 30
 
 title: ミッションのための言語習得
 
