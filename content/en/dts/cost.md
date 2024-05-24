@@ -22,6 +22,6 @@ design:
 
 ---
 
-**Lecture phase:** ¥450,000 (excluding consumption tax)
+Lecture phase: **¥495,000** (including the lecture phase fee of ¥450,000 and a 10% consumption tax of ¥45,000)
 
-**Outreach phase:** ¥300,000 - ¥400,000 (to be confirmed)
+Outreach phase: **¥275,000 - ¥375,000** (depending on the outreach location)
