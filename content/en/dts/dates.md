@@ -22,6 +22,6 @@ design:
 
 ---
 
-**Start:** 7 October 2024
+**Arrival Day:** 6 October 2024
 
-**End:** 21 February 2025
+**Departure Date:** 22 February 2025
