@@ -15,7 +15,7 @@ The following are Youth With A Mission (YWAM) Sendai’s statements in regard to
 
 ## Privacy
 
-YWAM respects your right to privacy. We also want to present information on YWAMSendai.jp that is tailored to the needs of our visitors. For this reason, we may ask you to provide personal information when you visit certain areas of the site, such as submitting a contact form. YWAM Sendai assures you that the identity of all who contact us through this website is kept confidential: we do not rent, sell, or exchange our mailing lists. We only collect your willingly submitted contact information. We do not send information that is not requested.
+YWAM respects your right to privacy. We also want to present information on YWAMSendai.org that is tailored to the needs of our visitors. For this reason, we may ask you to provide personal information when you visit certain areas of the site, such as submitting a contact form. YWAM Sendai assures you that the identity of all who contact us through this website is kept confidential: we do not rent, sell, or exchange our mailing lists. We only collect your willingly submitted contact information. We do not send information that is not requested.
 
 ## Honesty
 
@@ -23,14 +23,14 @@ YWAM will always strive to be responsible in our management, truthful in our adv
 
 ## Security
 
-YWAMSendai.jp is securely encrypted to ensure that personal information (names, email addresses, messages etc.) cannot be viewed by outside parties.
+YWAMSendai.org is securely encrypted to ensure that personal information (names, email addresses, messages etc.) cannot be viewed by outside parties.
 
 ## Disclaimer Regarding Links
 
-YWAMSendai.jp contains links to other sites. YWAM is not responsible for the privacy practices or the content of such websites.
+YWAMSendai.org contains links to other sites. YWAM is not responsible for the privacy practices or the content of such websites.
 
 ## Copyright and Trademarks
 
-Youth With A Mission, Y.W.A.M. and the YWAM logo are all registered trademarks of Youth With A Mission, a California corporation. All www.ywamsendai.jp content is Copyright 2021, Youth With A Mission Sendai. All rights reserved. Christian non-profit organizations, churches, small groups and individuals may print and copy the material on this site for ministry and educational purposes only. For uses outside this you will need specific permissions and must contact us. The content may not be re-published, sold or used for making profit without specific permissions.
+Youth With A Mission, Y.W.A.M. and the YWAM logo are all registered trademarks of Youth With A Mission, a California corporation. All www.ywamsendai.org content is Copyright 2024, Youth With A Mission Sendai. All rights reserved. Christian non-profit organizations, churches, small groups and individuals may print and copy the material on this site for ministry and educational purposes only. For uses outside this you will need specific permissions and must contact us. The content may not be re-published, sold or used for making profit without specific permissions.
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please contact us.
