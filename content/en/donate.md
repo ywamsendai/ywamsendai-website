@@ -37,6 +37,12 @@ Please send us an email telling us you have sent your donation/payment, includin
 
 **Note: Do not send us money directly via your bank, as it will be rejected by our bank.**
 
+### PayPal
+
+If the above method does not work, you can also use PayPal. Please be aware that the conversion rate is unfavourable and the fees are higher.
+
+You can find the payment form [here](https://www.paypal.com/ncp/payment/F2BWGTCV6H9P2).
+
 ## Within Japan
 
 The YWAM Sendai JP Bank account number is: **10140-65305041**
