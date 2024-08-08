@@ -15,27 +15,27 @@ Each member of our team is supported financially to serve with us in Japan. That
 
 You can also use these details to make any payments such as staff fees or school registration/lecture fees.
 
-## International
+## International / Japan
 
-Please use a money transfer service for sending money internationally. This is the cheapest way to send us money. We recommend a service called [Wise](https://www.wise.com/). Here are details you will need for a Wise transfer:
+You can transfer money directly into our bank account, or you can save money on exchange rates and transfer fees, by sending via a service such as [Wise](https://www.wise.com/). 
+
+Either sending direct or via Wise, please find our bank details below:
 
 * Recipient type: "A business / charity"
-* Their email: admin@ywamsendai.org
-* Name of the business / organisation: シュウキョウホウジン　セカイセイネンセンキョウカイ (please copy and paste this to avoid mistakes!)
+* Name of the account / business / organisation: セカイセイネンセンキョウカイ (please copy and paste this to avoid mistakes!)
+* Bank name: [0310] GMO Aozora Net Bank
+* Branch name: [101] Houjin
+* Account type: (Futsuu) Savings/General
+* Account number: 2042380
+* Email: admin@ywamsendai.org
 * Country: Japan
 * City: Osaka
 * Recipient address: 2-15-3 Kanmakicho, Takatsuki
 * Post Code: 569-0003
-* Bank name: [9900] Japan Post Bank (Yucho)
-* Branch name: [018] Zero Ichi Hachi
-* Account type: (Futsuu) Savings/General
-* Account number: 6530504
-
-If you have issues sending your money via Wise, please let us know.
 
 Please send us an email telling us you have sent your donation/payment, including the amount and date of transfer, to admin@ywamsendai.org
 
-**Note: Do not send us money directly via your bank, as it will be rejected by our bank.**
+If you have issues sending money, please let us know.
 
 ### PayPal
 
@@ -43,7 +43,7 @@ If the above method does not work, you can also use PayPal. Please be aware that
 
 You can find the payment form [here](https://www.paypal.com/ncp/payment/F2BWGTCV6H9P2).
 
-## Within Japan
+## Within Japan Only
 
 The YWAM Sendai JP Bank account number is: **10140-65305041**
 
