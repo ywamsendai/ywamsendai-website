@@ -17,9 +17,9 @@ You can also use these details to make any payments such as staff fees or school
 
 ## International / Japan
 
-You can transfer money directly into our bank account, or you can save money on exchange rates and transfer fees, by sending via a service such as [Wise](https://www.wise.com/). 
+If you have a Japanese bank account, you can transfer money directly into our bank account, or if you don't have a Japanese bank, you can send via [Wise](https://www.wise.com/). 
 
-Either sending direct or via Wise, please find our bank details below:
+Please find our bank details below:
 
 * Recipient type: "A business / charity"
 * Name of the account / business / organisation: セカイセイネンセンキョウカイ (please copy and paste this to avoid mistakes!)
