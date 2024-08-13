@@ -41,7 +41,7 @@ If you have issues sending money, please let us know.
 
 If the above method does not work, you can also use PayPal. Please be aware that the conversion rate is unfavourable and the fees are higher.
 
-You can find the payment form [here](https://www.paypal.com/ncp/payment/F2BWGTCV6H9P2).
+{{< cta cta_text="Pay Using PayPal" cta_link="[/](https://www.paypal.com/ncp/payment/F2BWGTCV6H9P2)" cta_new_tab="false" >}}
 
 ## Within Japan Only
 
