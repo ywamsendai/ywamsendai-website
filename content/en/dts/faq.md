@@ -22,4 +22,4 @@ design:
 
 ---
 
-[Go to FAQ >>](https://docs.ywamsendai.org/docs/dts/faq/)
+[Go to FAQ >>](https://docs.ywamsendai.org/docs/students/faq/)
