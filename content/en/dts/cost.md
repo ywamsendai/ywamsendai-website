@@ -22,6 +22,4 @@ design:
 
 ---
 
-Lecture phase: **¥500,000** (including the lecture phase fee of ¥454,545.45 and a 10% consumption tax of ¥45,454.55)**
-
-Outreach phase: **¥350,000 - ¥450,000** including airfare (depending on the outreach location)
+DTS Fee: TBA

@@ -22,6 +22,6 @@ design:
 
 ---
 
-**Arrival Day:** 6 October 2024
+**Arrival Day:** October 2025
 
-**Departure Date:** 22 February 2025
+**Departure Date:** February 2026
