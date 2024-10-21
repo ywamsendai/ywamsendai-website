@@ -42,6 +42,10 @@ ja:
         parent: about
         url: '#contact'
         weight: 40
+      - name: 特定商取引法に基づく表記
+        parent: about
+        url: '/disclosure'
+        weight: 40
       - name: 献金
         url: '/donate'
         weight: 40
