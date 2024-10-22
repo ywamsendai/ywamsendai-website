@@ -11,16 +11,4 @@ header:
   image: ""
 ---
 
-Thank you for your interest in applying for a YWAM UofN DTS in Sendai!
-
-This is the DTS student **application** form. Please fill it in and we will get back to you as soon as possible.
-
-If you are married and are both wishing to join as students, you will both need to fill in an application form.
-
-These are the requirements to apply for the DTS:
-
-- Be at least 18 years old by the end of the school
-- Be able to communicate in either English or Japanese
-- Be able to be in Japan for up to 90 days without a visa, or be eligible for a 90 day eVisa ([Go here](https://docs.ywamsendai.org/docs/students/faq/#do-i-need-a-visa-to-attend) for details)
-
-{{< gdocs src="https://docs.google.com/forms/d/e/1FAIpQLSd7VFAFBAGj12zcxaV1kingTaAQFhW_zzKRA1FhO7nkBowMJw/viewform?embedded=true" >}}
+<div style="width:100%;height:500px;" data-fillout-id="hMo4X7iQA3us" data-fillout-embed-type="standard" data-fillout-inherit-parameters data-fillout-dynamic-resize></div><script src="https://server.fillout.com/embed/v1/"></script>
