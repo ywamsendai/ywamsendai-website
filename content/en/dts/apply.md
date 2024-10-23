@@ -22,4 +22,4 @@ design:
 
 ---
 
-{{< cta cta_text="Apply for the Discipleship Training School (DTS)" cta_link="/en/dtsapp/index.md" cta_new_tab="false" >}}
+{{< cta cta_text="Apply for the Discipleship Training School (DTS)" cta_link="/en/dtsapp/" cta_new_tab="false" >}}
