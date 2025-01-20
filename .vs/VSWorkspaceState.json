@@ -1,11 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\config",
-    "\\config\\_default",
     "\\content",
     "\\content\\en",
-    "\\content\\en\\sbs",
+    "\\content\\ja",
+    "\\content\\ja\\dts",
     "\\layouts",
     "\\layouts\\partials",
     "\\layouts\\partials\\blocks",
