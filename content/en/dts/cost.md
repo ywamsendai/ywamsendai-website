@@ -22,6 +22,4 @@ design:
 
 ---
 
-**Lecture phase:** TBA
-
-**Outreach phase:** TBA
+DTS Fee: TBA

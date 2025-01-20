@@ -42,7 +42,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} ywam&reg;sendai.org. All rights reserved. Part of the YWAM Family of Ministries.'
+    notice: '© {year} ywam&reg;sendai.org | 宗教法人　世界青年宣教会. All rights reserved. Part of the YWAM Family of Ministries.'
     license:
       enable: false
       allow_derivatives: false
@@ -95,7 +95,7 @@ features:
       show_logo: false
   map:
     provider: 'google'
-    api_key: ''
+    api_key: 'AIzaSyDxiojboSI95vRDbg4wRhlvsF-TAalstPA'
     zoom: 15
 
 extensions:

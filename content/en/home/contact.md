@@ -33,7 +33,7 @@ content:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/ywamsendai'
+      link: 'https://x.com/ywamsendai'
     - icon: discord
       icon_pack: fab
       name: Chat on Discord

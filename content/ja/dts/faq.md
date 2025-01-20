@@ -22,4 +22,4 @@ design:
 
 ---
 
-[よくある質問に行く　>>](https://docs.ywamsendai.org/ja/docs/dts/faq/)
+[よくある質問に行く　>>](https://docs.ywamsendai.org/ja/docs/students/faq/)

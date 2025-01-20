@@ -2,7 +2,7 @@
 widget: blank
 active: true
 headless: true
-weight: 50
+weight: 80
 
 title: Partner with us!
 subtitle: We are looking for partners who will join us in reaching the Japanese in Northern Japan.

@@ -2,7 +2,7 @@
 widget: blank
 active: true
 headless: true
-weight: 15
+weight: 20
 
 title: 和風クリスチャン
 

@@ -2,7 +2,7 @@
 widget: blank
 active: true
 headless: true
-weight: 20
+weight: 25
 
 title: カフェ・コミュニティセンター
 

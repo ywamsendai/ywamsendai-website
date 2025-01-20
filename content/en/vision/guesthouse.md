@@ -2,7 +2,7 @@
 widget: blank
 active: true
 headless: true
-weight: 30
+weight: 35
 
 title: Guest House
 

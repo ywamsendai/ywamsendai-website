@@ -23,21 +23,32 @@ ja:
       - name: 参加する
         url: '/get-involved'
         weight: 20
-      - name: ワイワムとは
-        url: '/who'
+      - name: ワイワムについて
+        identifier: about
         weight: 30
+      - name: ワイワムとは
+        parent: about
+        url: '/who'
+        weight: 10
       - name: ビジョン
+        parent: about
         url: '/vision'
-        weight: 35
-      - name: ニュース
+        weight: 20
+      - name: ブログ
+        parent: about
         url: 'https://www.medium.com/ywamsendai'
-        weight: 40
+        weight: 30
       - name: お問い合わせ
+        parent: about
         url: '#contact'
-        weight: 50
+        weight: 40
+      - name: 特定商取引法に基づく表記
+        parent: about
+        url: '/disclosure'
+        weight: 40
       - name: 献金
         url: '/donate'
-        weight: 60
-      - name: ワイワマーへ
+        weight: 40
+      - name: ハンドブック
         url: 'https://docs.ywamsendai.org/ja/'
-        weight: 70
+        weight: 50

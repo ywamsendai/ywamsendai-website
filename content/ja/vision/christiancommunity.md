@@ -2,7 +2,7 @@
 widget: blank
 active: true
 headless: true
-weight: 25
+weight: 45
 
 title: いつでもどこでも・クリスチャン・コミュニティ
 

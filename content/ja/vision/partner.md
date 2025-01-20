@@ -2,7 +2,7 @@
 widget: blank
 active: true
 headless: true
-weight: 50
+weight: 80
 
 title: パートナーになろう！
 subtitle: 物件探しを手伝ってくれるパートナーを募集しています
