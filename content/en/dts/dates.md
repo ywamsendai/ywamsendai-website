@@ -22,8 +22,4 @@ design:
 
 ---
 
-Exact dates to be confirmed
-
-**Start:** April 2026
-
-**End:** August 2026
+More information coming soon!
