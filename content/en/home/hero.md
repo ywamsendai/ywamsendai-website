@@ -6,7 +6,7 @@ title: To know God and make Him known
 #hero_media:
 cta:
   label: '**Apply →**'
-  url: '/apply/index.md'
+  url: '/apply/'
 #  icon: compass
 #  icon_pack: fas
 #cta_alt:

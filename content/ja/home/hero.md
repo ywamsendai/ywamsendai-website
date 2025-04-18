@@ -6,7 +6,7 @@ title: 神を知り、神を知らせる。
 #hero_media:
 cta:
   label: '**申し込み →**'
-  url: '/apply/index.md'
+  url: '/apply/'
 #  icon: compass
 #  icon_pack: fas
 #cta_alt:
