@@ -5,10 +5,10 @@ weight: 1
 title: 神を知り、神を知らせる。
 #hero_media:
 cta:
-  label: '**活動拠点**'
-  url: '#get-involved'
-  icon: compass
-  icon_pack: fas
+  label: '**申し込み →**'
+  url: '/apply/index.md'
+#  icon: compass
+#  icon_pack: fas
 #cta_alt:
 #  label: Ask a question
 #  url: https://discord.gg/z8wNYzb

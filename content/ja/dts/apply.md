@@ -4,7 +4,7 @@
 widget: blank
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -22,4 +22,4 @@ design:
 
 ---
 
-{{< cta cta_text="弟子訓練学校（DTS）に申し込む" cta_link="/ja/dtsapp/" cta_new_tab="false" >}}
+{{< cta cta_text="弟子訓練学校（DTS）に申し込む" cta_link="/ja/apply/" cta_new_tab="false" >}}

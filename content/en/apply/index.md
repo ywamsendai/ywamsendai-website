@@ -1,5 +1,4 @@
 ---
-title: DTS Application
+title: Apply
 type: widget_page
 ---
-

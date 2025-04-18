@@ -5,10 +5,10 @@ weight: 1
 title: To know God and make Him known
 #hero_media:
 cta:
-  label: '**Join Us**'
-  url: '#get-involved'
-  icon: compass
-  icon_pack: fas
+  label: '**Apply →**'
+  url: '/apply/index.md'
+#  icon: compass
+#  icon_pack: fas
 #cta_alt:
 #  label: Ask a question
 #  url: https://discord.gg/z8wNYzb
