@@ -4,9 +4,9 @@ headless: true
 weight: 1
 title: The Harvest Is Plentiful.
 #hero_media:
-#cta:
-#  label: '**活動拠点**'
-#  url: '#get-involved'
+cta:
+  label: '**Apply →**'
+  url: '/apply/'
 #  icon: compass
 #  icon_pack: fas
 #cta_alt:

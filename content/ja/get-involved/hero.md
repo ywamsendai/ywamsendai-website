@@ -4,9 +4,9 @@ headless: true
 weight: 1
 title: あなたにしかできないことがある
 #hero_media:
-#cta:
-#  label: '**活動拠点**'
-#  url: '#get-involved'
+cta:
+  label: '**申し込む →**'
+  url: '/apply/'
 #  icon: compass
 #  icon_pack: fas
 #cta_alt:
