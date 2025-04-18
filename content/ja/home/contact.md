@@ -9,31 +9,27 @@ subtitle:
 content:
   autolink: true
 
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      captcha: true
+  #form:
+  #  provider: netlify
+  #  formspree:
+  #    id:
+  #  netlify:
+  #    captcha: true
 
   # Contact details (edit or remove options as required)
   email: info@ywamsendai.org
   coordinates:
-    latitude: '38.2728'
-    longitude: '140.761462'
+    latitude: '38.26029'
+    longitude: '140.88242'
   contact_links:
-  - icon: twitter
+  - icon: x-twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/ywamsendai'
+    link: 'https://x.com/ywamsendai'
   - icon: discord
     icon_pack: fab
     name: Chat on Discord
     link: 'https://discord.gg/djmCF4DBaV'
-  - icon: telegram
-    icon_pack: fab
-    name: Chat on Telegram
-    link: 'https://t.me/joinchat/O4PX5BsUYLG64lCazgT8Ng'
   - icon: facebook
     icon_pack: fab
     name: Message on Facebook
