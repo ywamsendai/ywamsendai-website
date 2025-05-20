@@ -15,9 +15,13 @@ Each member of our team is supported financially to serve with us in Japan. That
 
 You can also use these details to make any payments such as staff fees or school registration/lecture fees.
 
-## International / Japan
+## International
 
-If you have a Japanese bank account, you can transfer money directly into our bank account, or if you don't have a Japanese bank, you can send via [Wise](https://www.wise.com/). 
+### Bank Transfer (Via Wise)
+
+You can send money via [Wise](https://www.wise.com/). This is generally the cheapest method of sending us money from overseas.
+
+**Important: We cannot receive money directly sent to this account. This method will only work via Wise.**
 
 Please find our bank details below:
 
@@ -37,15 +41,21 @@ Please send us an email telling us you have sent your donation/payment, includin
 
 If you have issues sending money, please let us know.
 
+### Credit Card
+
+If the above method does not work, you can also use Credit Card. Please be aware that the conversion rate is unfavourable and the fees are higher.
+
+{{< cta cta_text="Pay Using PayPal" cta_link="https://buy.stripe.com/28EaEZgJcgATdIrer82Fa00" cta_new_tab="false" >}}
+
 ### PayPal
 
-If the above method does not work, you can also use PayPal. Please be aware that the conversion rate is unfavourable and the fees are higher.
+Another method is PayPal. Again, please be aware that the conversion rate is unfavourable and the fees are higher.
 
 {{< cta cta_text="Pay Using PayPal" cta_link="https://www.paypal.com/ncp/payment/F2BWGTCV6H9P2" cta_new_tab="false" >}}
 
-## Within Japan Only
+## Japan
 
-The YWAM Sendai JP Bank account number is: **10140-65305041**
+You can either use the bank details as listed above, or the YWAM Sendai JP Bank account. Our account number is **10140-65305041**
 
 For those that aren't sure how to make transfers through the Japan Post Bank, here are directions:
 

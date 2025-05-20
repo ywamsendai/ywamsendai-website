@@ -25,7 +25,6 @@ design:
     image_position: center
     image_parallax: false
     text_color_light: true
-    text_align: center
   spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
       padding: ["200px", "0", "200px", "0"]
