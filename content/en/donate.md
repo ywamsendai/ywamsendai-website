@@ -45,7 +45,7 @@ If you have issues sending money, please let us know.
 
 If the above method does not work, you can also use Credit Card. Please be aware that the conversion rate is unfavourable and the fees are higher.
 
-{{< cta cta_text="Pay Using PayPal" cta_link="https://buy.stripe.com/28EaEZgJcgATdIrer82Fa00" cta_new_tab="false" >}}
+{{< cta cta_text="Pay Using Credit Card" cta_link="https://buy.stripe.com/28EaEZgJcgATdIrer82Fa00" cta_new_tab="false" >}}
 
 ### PayPal
 
