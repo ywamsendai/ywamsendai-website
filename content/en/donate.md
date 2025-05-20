@@ -11,7 +11,7 @@ header:
   image: ""
 ---
 
-Each member of our team is supported financially to serve with us in Japan. That being the case, YWAM Sendai has its own expenses, such as ministry expenses. We are also desiring to purchase property for office and meeting space, as well as accommodation for staff, teams, volunteers, and students. We would also like to own a vehicle to make it easier to travel around this region. If you would like to give towards YWAM Sendai, please use the following bank details depending on your location.
+Each member of our team is supported financially to serve with us in Japan. That being the case, YWAM Sendai has its own expenses, such as ministry expenses. We are also desiring to purchase property for office and meeting space, as well as accommodation for staff, teams, volunteers, and students. We would also like to own a vehicle to make it easier to travel around this region. If you would like to give towards YWAM Sendai, please use the details depending on your location.
 
 You can also use these details to make any payments such as staff fees or school registration/lecture fees.
 
@@ -21,7 +21,7 @@ You can also use these details to make any payments such as staff fees or school
 
 You can send money via [Wise](https://www.wise.com/). This is generally the cheapest method of sending us money from overseas.
 
-**Important: We cannot receive money directly sent to this account. This method will only work via Wise.**
+**Important: We cannot receive money sent to this account directly from your bank. This method will only work via Wise.**
 
 Please find our bank details below:
 
