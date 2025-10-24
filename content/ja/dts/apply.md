@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: 出願する
+title: 興味ある？
 
 design:
   columns: "2"
@@ -22,4 +22,4 @@ design:
 
 ---
 
-{{< cta cta_text="弟子訓練学校（DTS）に申し込む" cta_link="/ja/apply/" cta_new_tab="false" >}}
+{{< cta cta_text="申し込む" cta_link="/ja/apply/" cta_new_tab="false" >}}
