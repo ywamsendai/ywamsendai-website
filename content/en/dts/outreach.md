@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 32
+weight: 33
 
 title: Make Him Known.
 subtitle: Outreach Phase

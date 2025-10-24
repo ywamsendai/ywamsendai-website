@@ -10,9 +10,9 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 32
 
-title: 興味ある？
+title: Interested?
 
 design:
   columns: "2"
@@ -22,4 +22,4 @@ design:
 
 ---
 
-{{< cta cta_text="申し込む" cta_link="/ja/apply/" cta_new_tab="false" >}}
+{{< cta cta_text="Apply" cta_link="/en/apply/" cta_new_tab="false" >}}

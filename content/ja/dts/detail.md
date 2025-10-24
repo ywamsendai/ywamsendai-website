@@ -2,7 +2,7 @@
 widget: featurette
 headless: true
 active: true
-weight: 42
+weight: 34
 
 title:
 
