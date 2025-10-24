@@ -4,7 +4,7 @@ headless: true
 active: true
 weight: 42
 
-title: Programme Information
+title: 
 
 feature:
   - icon: calendar
@@ -15,7 +15,7 @@ feature:
     icon_pack: fas
     name: Cost
     description: "Training: 500,000 JPY | Outreach: TBD"
-  - icon: yen-sign
+  - icon: question
     icon_pack: fas
     name: FAQ
     description: "[Go to FAQ >>](https://docs.ywamsendai.org/docs/students/faq/)"
