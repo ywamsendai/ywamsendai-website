@@ -2,10 +2,10 @@
 widget: hero
 headless: true
 weight: 1
-title: To know God and make Him known
+title: YWAM Sendai
 #hero_media:
 cta:
-  label: '**Apply →**'
+  label: '**Apply**'
   url: '/apply/'
 #  icon: compass
 #  icon_pack: fas
@@ -30,4 +30,4 @@ design:
       padding: ["200px", "0", "200px", "0"]
 ---
 
-Reach the unreached millions in Northern Japan.
+To know God and make Him known in Northern Japan.

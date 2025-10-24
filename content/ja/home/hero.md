@@ -2,10 +2,10 @@
 widget: hero
 headless: true
 weight: 1
-title: 神を知り、神を知らせる。
+title: 仙台ワイワム
 #hero_media:
 cta:
-  label: '**申し込む →**'
+  label: '**申し込む**'
   url: '/apply/'
 #  icon: compass
 #  icon_pack: fas
@@ -30,4 +30,4 @@ design:
       padding: ["200px", "0", "200px", "0"]
 ---
 
-福音を知らない東北の何百万の人々のために
+東北で神を知り、神を知らせる。

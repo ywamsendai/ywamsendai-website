@@ -2,7 +2,7 @@
 widget: featurette
 headless: true
 active: true
-weight: 20
+weight: 16
 
 title: Ministries
 subtitle: What We Do

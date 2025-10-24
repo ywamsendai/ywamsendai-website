@@ -13,10 +13,6 @@ main:
   - name: About
     identifier: about
     weight: 30
-  - name: Who We Are
-    parent: about
-    url: '/who'
-    weight: 10
   - name: Vision
     parent: about
     url: '/vision'
