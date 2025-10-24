@@ -13,13 +13,13 @@ headless: true
 weight: 50
 
 # title: 
-subtitle: "{{< cta cta_text="Apply" cta_link="/en/apply/" cta_new_tab="false" >}}"
 
 design:
-  columns: "1"
+  columns: "2"
 
   #spacing:
   #  padding: ["20px", "0", "20px", "0"]
 
 ---
 
+{{< cta cta_text="Apply" cta_link="/en/apply/" cta_new_tab="false" >}}
