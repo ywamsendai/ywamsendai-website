@@ -1,19 +1,23 @@
 ﻿---
 widget: featurette
 headless: true
-active: false
+active: true
 weight: 42
 
-title: プログラム情報
+title:
 
 feature:
   - icon: calendar
     icon_pack: fas
     name: 日付
-    description: 開始：2023年10月13日　｜　終了：2024年2月23日
+    description: 開始：2026年9月　｜　終了：2027年2月
   - icon: yen-sign
     icon_pack: fas
     name: 学費
-    description: 訓練：48万５千円　｜　アウトリーチ：30万～40万円
+    description: 訓練：50万円　｜　アウトリーチ：TBD
+  - icon: question
+    icon_pack: fas
+    name: よくある質問
+    description: "[よくある質問に行く　>>](https://docs.ywamsendai.org/ja/docs/students/faq/)"
 
 ---
