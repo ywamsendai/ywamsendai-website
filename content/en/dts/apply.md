@@ -1,18 +1,18 @@
 ﻿---
 # An instance of the Blank widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: blank
+widget: cta-button-list
 
-# Activate this widget? true/false
 active: true
-
-# This file represents a page section.
 headless: true
 
-# Order that this section appears on the page.
 weight: 50
 
 # title: 
+
+buttons:
+  - text: "Apply"
+    url: "/en/apply"
 
 design:
   columns: "1"
@@ -21,5 +21,3 @@ design:
   #  padding: ["20px", "0", "20px", "0"]
 
 ---
-
-{{< cta cta_text="Apply" cta_link="/en/apply/" cta_new_tab="false" >}}
