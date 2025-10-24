@@ -12,14 +12,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Apply
+# title: 
 
 design:
-  columns: "2"
+  columns: "1"
 
   #spacing:
   #  padding: ["20px", "0", "20px", "0"]
 
 ---
 
-{{< cta cta_text="Apply for the Discipleship Training School (DTS)" cta_link="/en/apply/" cta_new_tab="false" >}}
+{{< cta cta_text="Apply" cta_link="/en/apply/" cta_new_tab="false" >}}
