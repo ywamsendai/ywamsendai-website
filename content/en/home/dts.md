@@ -25,6 +25,8 @@ design:
 
 Start with the Discipleship Training School (DTS). Spend five to six months centering your life in God. Seek personal breakthroughs. Stretch yourself by serving God in a cross-cultural setting.
 
+Next DTS: 24 September 2026!
+
 In order to come join us in Sendai as staff, you will have to have completed a DTS somewhere in the world. You can either attend your DTS here in Sendai, or you can attend a DTS at one of [many YWAM locations](https://www.ywam.org/dts/) around the world. Click the following link for more information:
 
 [DTS >]({{< ref "/dts/index.md" >}})

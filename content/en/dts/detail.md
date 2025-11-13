@@ -10,11 +10,11 @@ feature:
   - icon: calendar
     icon_pack: fas
     name: Dates
-    description: "Start: September 2026 | End: February 2027"
+    description: "Start: 24 September 2026 | End: 5 March 2027"
   - icon: yen-sign
     icon_pack: fas
     name: Cost
-    description: "Training: 500,000 JPY | Outreach: TBD"
+    description: "Training: 500,000 JPY (subject to change) | Outreach: TBD"
   - icon: question
     icon_pack: fas
     name: FAQ
