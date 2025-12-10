@@ -13,8 +13,8 @@ feature:
     description: 開始：2026年9月24日　｜　終了：2027年3月5日
   - icon: yen-sign
     icon_pack: fas
-    name: 学費
-    description: 訓練：50万円（変更される場合がある）　｜　アウトリーチ：未定
+    name: 費用
+    description: 約97万円（変更される場合がある）
   - icon: question
     icon_pack: fas
     name: よくある質問
