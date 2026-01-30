@@ -1,0 +1,107 @@
+# SITE SETUP
+# Guide: https://wowchemy.com/docs/getting-started/
+# Documentation: https://wowchemy.com/docs/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+
+appearance:
+  theme_day: forest
+  theme_night: minimal
+  font: native
+  font_size: L
+
+# SEO
+
+marketing:
+  seo:
+    site_type: Organization
+    local_business_type: ''
+    org_name: ''
+    description: 'To know God and make Him known to the Japanese.'
+    twitter: 'ywamsendai'
+  analytics:
+    google_analytics: 'G-QBR8K83R99'
+    google_tag_manager: 'GTM-5PKMSRP'
+    baidu_tongji: ''
+  verification:
+    google: ''
+    baidu: ''
+
+# Site header
+
+header:
+  navbar:
+    enable: true
+    fixed_to_top: true
+    align: l
+    show_logo: true
+    show_language: true
+    show_day_night: true
+    show_search: true
+    highlight_active_link: true
+
+footer:
+  copyright:
+    notice: '© {year} ywam&reg;sendai.org | 宗教法人　世界青年宣教会. All rights reserved. Part of the YWAM Family of Ministries.'
+    license:
+      enable: false
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+
+# Localization
+
+locale:
+  date_format: '2006-01-02'
+  time_format: '15:04'
+
+# Site features
+
+features:
+  syntax_highlighter:
+    enable: false
+    extra_languages:
+      - r
+      - latex
+  math:
+    enable: false
+  privacy_pack:
+    enable: false
+  repository:
+    url: 'https://github.com/ywamsendai/ywamsendai-website'
+    content_dir: content
+    branch: main
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
+  search:
+    provider: 'wowchemy'
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: 'google'
+    api_key: 'AIzaSyDxiojboSI95vRDbg4wRhlvsF-TAalstPA'
+    zoom: 15
+
+extensions:
+  cms:
+    branch: main
+    local_backend: false
+  academicons:
+    enable: false
