@@ -40,7 +40,8 @@ sections:
 
   - block: markdown
     content:
-      text: {{< youtube f-eGWZHR2Mk >}}
+      text: |
+        {{< youtube f-eGWZHR2Mk >}}
 
   - block: features
     content: 
